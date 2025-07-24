@@ -1,0 +1,5 @@
+Player URL:
+https://playlistforyou.github.io/player/?list=https://raw.githubusercontent.com/playlistforyou/b5f4990a50d0699d/refs/heads/master/github_master.m3u8
+
+Direct Playlist URL:
+https://raw.githubusercontent.com/playlistforyou/b5f4990a50d0699d/refs/heads/master/github_master.m3u8
